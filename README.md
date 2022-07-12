@@ -14,4 +14,20 @@
 3). **Process:** Data Mining, Clustering/Classification, Data Modeling, Data Summarization. Data scientists take the prepared data and examine its patterns, ranges, and biases to determine how useful it will be in predictive analysis.
 
 4). **Analyze:** Exploratory/Confirmatory, Predictive Analysis, Regression, Text Mining, Qualitative Analysis. Here is the real meat of the lifecycle. This stage involves performing the various analyses on the data.
-5). **Communicate:** Data Reporting, Data Visualization, Business Intelligence, Decision Making. In this final step, analysts prepare the analyses in easily readable forms such as charts, graphs, and reports.
+5). **Communicate:** Data Reporting, Data Visualization, Business Intelligence, Decision Making. In this final step, analysts prepare the analyses in easily readable forms such as charts, graphs, and reports. 
+
+
+**Tools and Technologies** 
+(i). Modern Python programming language and Version control system. 
+(ii). SQL and Databases
+		- Non relational and relational databases. 
+		- Postgres, MySQL, MongoDB, and DynamoDB  
+(iii). Cloud services, AWS and  GCP 
+(iv). Application of Data Science.  
+(v). Task management systems like Jira. 
+
+**Software Requirement**
+(i). Python programming environment, preferably jupyter notebook, but you can use any of your choice.  
+(ii). SQL server, MySQL workbench , postgresql server. We will install this together, but you can install dbeaver or dbvisualizer. 
+(iii). An account with AWS and Google GCP.  
+
