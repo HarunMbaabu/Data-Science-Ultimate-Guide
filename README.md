@@ -1,11 +1,15 @@
 ## **What is Data Science?**
 
-**Data science** is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models. 
+**Data science** is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models.  
 
  >> The data used for analysis can come from many different sources and presented in various formats. 
 
+  - The power of data science comes from a deep understanding of statistics and algorithms, programming and hacking, and communication skills. More importantly, data science is about applying these three skill sets in a disciplined and systematic manner. 
+
+  [Top 5 Data Science Projects with Source Code to kick-start your Career by Data Flair Training](https://data-flair.training/blogs/data-science-projects-code/)
+
 **The Data Science Lifecycle**
- Data science’s lifecycle consists of five distinct stages, each with its own tasks:
+ Data science’s lifecycle consists of five distinct stages, each with its own tasks this is after you frame the problem:
 
 1). **Capture:** Data Acquisition, Data Entry, Signal Reception, Data Extraction. This stage involves gathering raw structured and unstructured data.
 
