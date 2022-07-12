@@ -17,7 +17,7 @@
 5). **Communicate:** Data Reporting, Data Visualization, Business Intelligence, Decision Making. In this final step, analysts prepare the analyses in easily readable forms such as charts, graphs, and reports. 
 
 
-**Tools and Technologies** 
+### **Tools and Technologies** 
 
 (i). Modern Python programming language and Version control system. 
 
@@ -32,7 +32,7 @@
 
 (v). Task management systems like Jira. 
 
-**Software Requirement**
+### **Software Requirement**
 
 (i). Python programming environment, preferably jupyter notebook, but you can use any of your choice. 
 
