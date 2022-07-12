@@ -18,11 +18,14 @@
 
 
 **Tools and Technologies** 
+
 (i). Modern Python programming language and Version control system. 
 
+
 (ii). SQL and Databases
-		- Non relational and relational databases. 
-		- Postgres, MySQL, MongoDB, and DynamoDB  
+	- Non relational and relational databases. 
+	- Postgres, MySQL, MongoDB, and DynamoDB 
+
 (iii). Cloud services, AWS and  GCP 
 
 (iv). Application of Data Science. 
@@ -30,6 +33,7 @@
 (v). Task management systems like Jira. 
 
 **Software Requirement**
+
 (i). Python programming environment, preferably jupyter notebook, but you can use any of your choice. 
 
 (ii). SQL server, MySQL workbench , postgresql server. We will install this together, but you can install dbeaver or dbvisualizer. 
